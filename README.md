@@ -13,7 +13,7 @@ To display all pages I used React-Router. For use fetched from the server data I
 UI is very simple and has no overs. All styles was written on TailwindCSS.
 
 User page
-![User page](https://i.imgur.com/JOL3s8e.png)
+![User page](https://i.imgur.com/zLVX0Gk.png)
 
 ### For launching
 Write `node server.js` in `./server/` & `npm run dev` in `./client/`.
